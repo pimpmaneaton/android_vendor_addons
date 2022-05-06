@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<inset android:insetLeft="-8.0dip" android:insetRight="0.0dip"
+<inset android:insetLeft="0dip" android:insetRight="0dip"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <vector android:tint="?android:colorControlNormal" android:height="40.0dip" android:width="40.0dip" android:viewportWidth="36.0" android:viewportHeight="36.0"
+    <vector android:tint="?android:colorControlNormal" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="36.0" android:viewportHeight="36.0"
       xmlns:android="http://schemas.android.com/apk/res/android">
         <group>
             <group>

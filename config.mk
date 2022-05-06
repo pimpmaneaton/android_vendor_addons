@@ -133,7 +133,6 @@ PRODUCT_PACKAGES += \
     IconPackOOSSystemUIOverlay \
     IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
-    IconPackOutlineSettingsOverlay \
     IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusSystemUIOverlay
@@ -200,7 +199,7 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
-    crDroidThemesStub
+    riceDroidThemesStub
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
