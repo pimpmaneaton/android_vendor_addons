@@ -153,7 +153,8 @@ PRODUCT_PACKAGES += \
     IconShapeStretchedOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    RohieIconMeowOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
