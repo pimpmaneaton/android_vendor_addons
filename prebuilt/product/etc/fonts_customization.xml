@@ -299,6 +299,14 @@
     <alias name="samsungone-semi-bold" to="samsungone" weight="600" />
     <alias name="samsungone-bold" to="samsungone" weight="700" />
 
+    <!-- NothingDot -->
+    <family customizationType="new-named-family" name="nothingdot">
+        <font weight="400" style="normal">ndot.ttf</font>
+        <font weight="700" style="normal">ndot57.ttf</font>
+    </family>
+    <alias name="nothingdot-semi-bold" to="nothingdot" weight="600" />
+    <alias name="nothingdot-bold" to="nothingdot" weight="700" />
+    
     <!-- SlateFromOP -->
     <family customizationType="new-named-family" name="oneplusslate">
         <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
