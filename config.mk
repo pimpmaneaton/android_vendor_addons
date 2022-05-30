@@ -32,6 +32,10 @@ PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/product/etc/sysconfig/nexus.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/nexus.xml \
     vendor/addons/prebuilt/product/etc/sysconfig/pixel_2016_exclusive.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/pixel_2016_exclusive.xml
 
+# AiAi Allowlist
+PRODUCT_COPY_FILES += \
+    vendor/addons/prebuilt/product/etc/sysconfig/aiai_allowlist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/aiai_allowlist.xml
+    
 ifneq ($(WITH_GMS),true)
 PRODUCT_COPY_FILES += \
     vendor/addons/prebuilt/system/addon.d/70-velvet.sh:$(TARGET_COPY_OUT_SYSTEM)/addon.d/70-velvet.sh \
