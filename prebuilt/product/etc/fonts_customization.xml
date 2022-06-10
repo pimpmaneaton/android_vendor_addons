@@ -385,6 +385,15 @@
     <!-- Alias for Source Serif to fit the naming convention -->
     <alias name="serif-medium" to="serif" weight="700" />
 
+  <family customizationType="new-named-family" name="inter">
+    <font weight="400" style="normal">Inter-Regular.ttf</font>
+    <font weight="400" style="italic">Inter-Italic.ttf</font>
+    <font weight="500" style="normal">Inter-Medium.ttf</font>
+    <font weight="500" style="italic">Inter-MediumItalic.ttf</font>
+  </family>
+  <alias name="inter-regular" to="inter" weight="400" />
+  <alias name="inter-medium" to="inter" weight="500" />
+
     <family customizationType="new-named-family" name="manrope">
         <font weight="500" style="normal">Manrope-VF.ttf
             <axis tag="wght" stylevalue="500"/>
