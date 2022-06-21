@@ -26,6 +26,6 @@
     <application android:label="@string/font_sanfrancisco_source_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="sanfrancisco,sanfrancisco-semi-bold,sanfrancisco-bold" />
+            android:value="sanfrancisco" />
     </application>
 </manifest>

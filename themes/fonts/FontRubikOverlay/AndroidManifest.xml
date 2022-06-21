@@ -28,6 +28,6 @@
         android:label="@string/font_rubik_overlay">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="rubik,rubik-medium,rubik-light,rubik-semi-bold,rubik-bold,rubik-regular" />
+            android:value="rubik,rubik-medium,rubik-bold,rubik-regular" />
     </application>
 </manifest>
