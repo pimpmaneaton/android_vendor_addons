@@ -176,6 +176,7 @@ PRODUCT_PACKAGES += \
 	OutlineWiFiOverlay \
 	OutlineSignalOverlay \
 	PillsSignalOverlay \
+	PavlovaWiFiOverlay \
 	PUISignalOverlay \
 	RoundSignalOverlay \
 	RoundWiFiOverlay \
