@@ -80,6 +80,7 @@ PRODUCT_PACKAGES += \
     FontLinotteOverlay \
     FontNokiaPureOverlay \
     FontNothiingDotOverlay \
+    FontNothingDotHeadlineOverlay \
     FontNunitoOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
