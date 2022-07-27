@@ -79,6 +79,7 @@ PRODUCT_PACKAGES += \
     FontLatoOverlay \
     FontLGSmartGothicOverlay \
     FontLinotteOverlay \
+    FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothiingDotOverlay \
     FontNothingDotHeadlineOverlay \
