@@ -154,7 +154,8 @@ PRODUCT_PACKAGES += \
     DefaultButBouncyOverlay \
     GoogleShapesOverlay \
     RiceBallsOverlay \
-    OutlineShapesOverlay
+    OutlineShapesOverlay \
+    RoundedOutlineShapesOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
