@@ -110,7 +110,9 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
-    RohieIconMeowOverlay
+    RohieIconMeowOverlay \
+    DefaultButSquareOverlay \
+    RiceBallsOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
@@ -166,7 +168,6 @@ PRODUCT_PACKAGES += \
 
 # QS Panel
 PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
     QSOutline \
     QSTwoToneAccent
     
