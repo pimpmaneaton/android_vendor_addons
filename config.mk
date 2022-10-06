@@ -166,10 +166,13 @@ PRODUCT_PACKAGES += \
 	ZigZagSignalOverlay \
 	ZigZagWiFiOverlay
 
-# QS Panel
+# Themes
 PRODUCT_PACKAGES += \
     QSOutline \
-    QSTwoToneAccent
+    QSTwoToneAccent \
+    AndroidVividTheme \
+    AndroidSnowPaintDropTheme \
+    AndroidEspressoTheme
     
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
