@@ -174,6 +174,10 @@ PRODUCT_PACKAGES += \
     AndroidSnowPaintDropTheme \
     AndroidEspressoTheme
     
+# Navigation
+PRODUCT_PACKAGES += \
+    ImmersiveNavigationOverlay
+
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
     UdfpsIcons \
