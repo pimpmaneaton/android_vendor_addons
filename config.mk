@@ -33,6 +33,7 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
     FontGoogleSansOverlay \
+    FontGoogleSansClockOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontInterSourceOverlay \
