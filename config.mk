@@ -23,6 +23,8 @@ PRODUCT_PACKAGES += \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
+    FontApiceOverlay \
+    FontAudimatOverlay \
     FontBariolOverlay \
     FontCagliostroOverlay \
     FontCoconOverlay \
@@ -34,6 +36,7 @@ PRODUCT_PACKAGES += \
     FontFluidSansOverlay \
     FontGoogleSansOverlay \
     FontGoogleSansClockOverlay \
+    FontGeometosOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontInterSourceOverlay \
