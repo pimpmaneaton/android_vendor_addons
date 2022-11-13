@@ -32,6 +32,8 @@ PRODUCT_PACKAGES += \
     FontComicSansOverlay \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
+    FontEvolveSansOverlay \
+    FontEvoSansOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
     FontGoogleSansOverlay \
