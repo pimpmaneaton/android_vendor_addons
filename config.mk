@@ -192,6 +192,14 @@ PRODUCT_PACKAGES += \
     AndroidSnowPaintDropTheme \
     AndroidEspressoTheme
     
+# Settings Themes
+PRODUCT_PACKAGES += \
+    AOSPSettingsOverlay \
+    ArcSettingsOverlay \
+    CardSettingsOverlay \
+    MaterialSettingsOverlay \
+    RUISettingsOverlay
+
 # Navigation
 PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay
