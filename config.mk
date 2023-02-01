@@ -200,6 +200,18 @@ PRODUCT_PACKAGES += \
     MaterialSettingsOverlay \
     RUISettingsOverlay
 
+# Lockscreen clock fonts
+PRODUCT_PACKAGES += \
+    ClockFontAlienLeagueOverlay \
+    ClockFontBalticBoddenOverlay \
+    ClockFontBalticStormOverlay \
+    ClockFontBigNoodleTiltingOverlay \
+    ClockFontMXWasgardOverlay \
+    ClockFontProdeltCoOverlay \
+    ClockFontRoadRageOverlay \
+    ClockFontTourneyMediumOverlay \
+    ClockFontZeroFourOverlay
+
 # Navigation
 PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay
