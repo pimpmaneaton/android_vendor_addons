@@ -198,14 +198,6 @@ PRODUCT_PACKAGES += \
     AndroidVividTheme \
     AndroidSnowPaintDropTheme \
     AndroidEspressoTheme
-    
-# Settings Themes
-PRODUCT_PACKAGES += \
-    AOSPSettingsOverlay \
-    ArcSettingsOverlay \
-    CardSettingsOverlay \
-    MaterialSettingsOverlay \
-    RUISettingsOverlay
 
 # Lockscreen clock fonts
 PRODUCT_PACKAGES += \
@@ -270,16 +262,6 @@ PRODUCT_PACKAGES += \
     DateFontSimpleDaySourceOverlay \
     DateFontSonySketchOverlay \
     DateFontVG5000Overlay
-
-# Navigation
-PRODUCT_PACKAGES += \
-    ImmersiveNavigationOverlay
-
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsIcons \
-    UdfpsAnimations
-endif
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
