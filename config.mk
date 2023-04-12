@@ -263,6 +263,14 @@ PRODUCT_PACKAGES += \
     DateFontSonySketchOverlay \
     DateFontVG5000Overlay
 
+# Settings Themes
+PRODUCT_PACKAGES += \
+    AOSPSettingsOverlay \
+    ArcSettingsOverlay \
+    CardSettingsOverlay \
+    MaterialSettingsOverlay \
+    RUISettingsOverlay
+
 # Lineage
 PRODUCT_PACKAGES += \
     LineageNavigationBarNoHint \
