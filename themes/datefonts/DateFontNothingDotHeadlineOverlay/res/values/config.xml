@@ -16,6 +16,6 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-     <!-- Name of a font family to use for body text. -->
-    <string name="config_dateFontFamily" translatable="false">nothingdot</string>
+     <!-- Name of a font family to use for keyguard text. -->
+    <string name="config_dateFontFamily" translatable="false">NDot55</string>
 </resources>

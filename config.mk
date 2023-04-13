@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     ClockFontGeometosOverlay \
     ClockFontHarmonySansOverlay \
     ClockFontJTLeonorOverlay \
+    ClockFontLetteraOverlay \
     ClockFontLinotteOverlay \
     ClockFontMiSansOverlay \
     ClockFontNokiaPureOverlay \
@@ -65,6 +66,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontHarmonySansOverlay \
     FontJTLeonorOverlay \
+    FontLetteraOverlay \
     FontLinotteOverlay \
     FontMiSansOverlay \
     FontNokiaPureOverlay \
@@ -230,6 +232,7 @@ PRODUCT_PACKAGES += \
     DateFontCatOverlay \
     DateFontConcentrateOverlay \
     DateFontKarmaticArcadeOverlay \
+    DateLetteraOverlay \
     DateFontLiquidCrystalOverlay \
     DateFontAccuratistOverlay \
     DateFontApiceOverlay \
