@@ -282,7 +282,8 @@ PRODUCT_PACKAGES += \
 
 # QS UI Style
 PRODUCT_PACKAGES += \
-    A11QSUI
+    A11QSUI \
+    ReevaluateSysUIOverlay
 
 # Lineage
 PRODUCT_PACKAGES += \
