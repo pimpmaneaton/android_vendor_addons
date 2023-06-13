@@ -17,40 +17,6 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
-# Clock Fonts
-PRODUCT_PACKAGES += \
-    ClockFontAccuratistOverlay \
-    ClockFontApiceOverlay \
-    ClockFontAudimatOverlay \
-    ClockFontBariolOverlay \
-    ClockFontCoconOverlay \
-    ClockFontComfortaaOverlay \
-    ClockFontComicSansOverlay \
-    ClockFontCoolstoryOverlay \
-    ClockFontExotwoOverlay \
-    ClockFontEvolveSansOverlay \
-    ClockFontFluidSansOverlay \
-    ClockFontGoogleSansOverlay \
-    ClockFontGeometosOverlay \
-    ClockFontHarmonySansOverlay \
-    ClockFontJTLeonorOverlay \
-    ClockFontLetteraOverlay \
-    ClockFontLinotteOverlay \
-    ClockFontMiSansOverlay \
-    ClockFontNokiaPureOverlay \
-    ClockFontNothingDotHeadlineOverlay \
-    ClockFontOneplusSansOverlay \
-    ClockFontOneplusSlateOverlay \
-    ClockFontOppoSansOverlay \
-    ClockFontProductSansVHOverlay \
-    ClockFontRobotoCondensedOverlay \
-    ClockFontRosemaryOverlay \
-    ClockFontRubikOverlay \
-    ClockFontSanFranciscoDisplayProSourceOverlay \
-    ClockFontSamsungOneOverlay \
-    ClockFontSimpleDaySourceOverlay \
-    ClockFontSonySketchOverlay
-
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
@@ -202,27 +168,7 @@ PRODUCT_PACKAGES += \
     QSNeumorph \
     QSReflected \
     QSSurround \
-    QSThin \
-    AndroidVividTheme \
-    AndroidSnowPaintDropTheme \
-    AndroidEspressoTheme
-
-# Lockscreen clock fonts
-PRODUCT_PACKAGES += \
-    ClockFontAlienLeagueOverlay \
-    ClockFontBalticBoddenOverlay \
-    ClockFontBalticStormOverlay \
-    ClockFontBigNoodleTiltingOverlay \
-    ClockFontMXWasgardOverlay \
-    ClockFontProdeltCoOverlay \
-    ClockFontRoadRageOverlay \
-    ClockFontTourneyMediumOverlay \
-    ClockFontZeroFourOverlay \
-    ClockFontCatOverlay \
-    ClockFontConcentrateOverlay \
-    ClockFontKarmaticArcadeOverlay \
-    ClockFontLiquidCrystalOverlay \
-    ClockFontVG5000Overlay
+    QSThin
 
 # Lockscreen date fonts
 PRODUCT_PACKAGES += \
