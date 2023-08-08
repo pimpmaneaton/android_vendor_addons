@@ -247,6 +247,15 @@ PRODUCT_PACKAGES += \
     A11QSUI \
     ReevaluateSysUIOverlay
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer
+
 # Lineage
 PRODUCT_PACKAGES += \
     LineageNavigationBarNoHint \
