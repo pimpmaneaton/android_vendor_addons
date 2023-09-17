@@ -17,7 +17,9 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
-
+# User Lock Screen
+PRODUCT_PACKAGES += \
+    UserLockscreenOverlay
 
 # Fonts
 PRODUCT_PACKAGES += \
