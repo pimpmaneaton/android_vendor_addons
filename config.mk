@@ -48,7 +48,18 @@ PRODUCT_PACKAGES += \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSamsungOneOverlay \
     FontSimpleDaySourceOverlay \
-    FontSonySketchOverlay
+    FontSonySketchOverlay \
+    FontHarmoniaSansOverlay \
+    FontTwCenMtOverlay \
+    FontJetBrainsOverlay \
+    FontMartianMonoOverlay \
+    FontOrionProOverlay \
+    FontSulphurPointOverlay \
+    FontIosevkaOverlay \
+    FontCallingCodeOverlay \
+    FontTTFirsNeueOverlay \
+    FontSpaceGroteskOverlay \
+    FontSairaOverlay
 
 # Icon Packs
 PRODUCT_PACKAGES += \
