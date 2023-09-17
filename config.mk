@@ -17,6 +17,8 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
+
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
@@ -140,62 +142,114 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
-# Signal / WiFi Icons
+# Signal Icons
 PRODUCT_PACKAGES += \
-	AcherusWiFiOverlay \
-	AcherusSignalOverlay \
-	AquariumSignalOverlay \
-	BarsSignalOverlay \
-	BarsWiFiOverlay \
-	DeepSignalOverlay \
-	DoraSignalOverlay \
-	DoraWiFiOverlay \
-	GradiconSignalOverlay \
-	GradiconWiFiOverlay \
-	HuaweiSignalOverlay \
-	IosSignalOverlay \
-	InsideSignalOverlay \
-	InsideWiFiOverlay \
-	NothingDotSignalOverlay \
-	NothingDotWiFiOverlay \
-	OutlineWiFiOverlay \
-	OutlineSignalOverlay \
-	PillsSignalOverlay \
-	PavlovaWiFiOverlay \
-	PUISignalOverlay \
-	RoundSignalOverlay \
-	RoundWiFiOverlay \
-	SneakySignalOverlay \
-	SneakyWiFiOverlay \
-	StrokeSignalOverlay \
-	StrokeWiFiOverlay \
-	WavySignalOverlay \
-	WavyWiFiOverlay \
-	WeedWiFiOverlay \
-	XperiaSignalOverlay \
-	XperiaWiFiOverlay \
-	ZigZagSignalOverlay \
-	ZigZagWiFiOverlay \
-	ForlornWiFiOverlay \
-	AuroraSignalOverlay \
-	ForlornSignalOverlay \
-	PlumpySignalOverlay \
-	AuroraWiFiOverlay \
-	PlumpyWiFiOverlay \
-	FaintUISignalOverlay \
-	FaintUIWiFiOverlay
+    AcherusSignalOverlay \
+    AiirOSignalOverlay \
+    AquariumSignalOverlay \
+    AuroraSignalOverlay \
+    BananaSignalOverlay \
+    BarsSignalOverlay \
+    BoldSignalOverlay \
+    ButterflySignalOverlay \
+    CapsuleSignalOverlay \
+    CircleSignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    DoraSignalOverlay \
+    DottedSignalOverlay \
+    EqualSignalOverlay \
+    FaintUISignalOverlay \
+    FanSignalOverlay \
+    ForlornSignalOverlay \
+    GlummySignalOverlay \
+    GradiconSignalOverlay \
+    HeartbeatSignalOverlay \
+    HollowSignalOverlay \
+    HuaweiSignalOverlay \
+    InsideSignalOverlay \
+    IosSignalOverlay \
+    IOSSignalOverlay \
+    JapaneseSignalOverlay \
+    KoalaSignalOverlay \
+    LinealSignalOverlay \
+    LinearSignalOverlay \
+    LineDotSignalOverlay \
+    MicroWaveSignalOverlay \
+    MiniSignalOverlay \
+    NinjaSignalOverlay \
+    NothingDotSignalOverlay \
+    NumberSignalOverlay \
+    OdinSignalOverlay \
+    OutlineSignalOverlay \
+    PillsSignalOverlay \
+    PlumpySignalOverlay \
+    PUISignalOverlay \
+    RelSignalOverlay \
+    RomanSignalOverlay \
+    RoundSignalOverlay \
+    RouterSignalOverlay \
+    ScaleSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    SharpSignalOverlay \
+    SleekSignalOverlay \
+    SneakySignalOverlay \
+    SpiralSignalOverlay \
+    StackSignalOverlay \
+    StrokeSignalOverlay \
+    TowerSignalOverlay \
+    WaffleSignalOverlay \
+    WannuiSignalOverlay \
+    WavySignalOverlay \
+    WindowsSignalOverlay \
+    WindySignalOverlay \
+    WingSignalOverlay \
+    XperiaSignalOverlay \
+    ZigZagSignalOverlay
 
-# Themes
+# WiFi Icons
 PRODUCT_PACKAGES += \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+    AcherusWiFiOverlay \
+    AiirOWiFiOverlay \
+    AuroraWiFiOverlay \
+    BarsWiFiOverlay \
+    BoldWiFiOverlay \
+    CapsuleWiFiOverlay \
+    DoraWiFiOverlay \
+    FaintUIWiFiOverlay \
+    ForlornWiFiOverlay \
+    GlummyWiFiOverlay \
+    GradiconWiFiOverlay \
+    HollowWiFiOverlay \
+    InsideWiFiOverlay \
+    IosWiFiOverlay \
+    JapaneseWiFiOverlay \
+    KoalaWiFiOverlay \
+    LandscapeWiFiOverlay \
+    LinealWiFiOverlay \
+    LinearWiFiOverlay \
+    LineDotWiFiOverlay \
+    MicroWaveWiFiOverlay \
+    NothingDotWiFiOverlay \
+    NumberWiFiOverlay \
+    OutlineWiFiOverlay \
+    PlumpyWiFiOverlay \
+    RoundWiFiOverlay \
+    RouterWiFiOverlay \
+    ScaleWiFiOverlay \
+    SharpWiFiOverlay \
+    SneakyWiFiOverlay \
+    SpiralWiFiOverlay \
+    StrokeWiFiOverlay \
+    TowerWiFiOverlay \
+    WaffleWiFiOverlay \
+    WavyWiFiOverlay \
+    WeedWiFiOverlay \
+    WindyWiFiOverlay \
+    XperiaWiFiOverlay \
+    ZigZagWiFiOverlay
 
 # Lockscreen date fonts
 PRODUCT_PACKAGES += \
