@@ -17,6 +17,12 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGE_OVERLAYS += vendor/addons/overlay/common
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
+# Apps
+PRODUCT_PACKAGES += \
+    OneUI \
+    FlatSquircle \
+    MeeUI
+    
 # User Lock Screen
 PRODUCT_PACKAGES += \
     UserLockscreenOverlay
