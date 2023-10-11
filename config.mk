@@ -19,7 +19,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/addons/overlay/common
 
 # Apps
 PRODUCT_PACKAGES += \
-    OneUI \
     FlatSquircle \
     MeeUI
     
