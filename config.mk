@@ -134,8 +134,8 @@ PRODUCT_PACKAGES += \
 # Navbar styles
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
-	NavbarAsusOverlay \
-	NavbarDoraOverlay \
+    NavbarAsusOverlay \
+    NavbarDoraOverlay \
     NavbarMotoOverlay \
     NavbarNexusOverlay \
     NavbarOldOverlay \
@@ -308,6 +308,53 @@ PRODUCT_PACKAGES += \
     CardSettingsOverlay \
     MaterialSettingsOverlay \
     RUISettingsOverlay
+
+# Themes
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
+    AndroidClearThemeOverlay
+
+# UI styles
+PRODUCT_PACKAGES += \
+    AndroidVividThemeOverlay \
+    AndroidEspressoThemeOverlay \
+    AndroidSnowPaintDropThemeOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSettingsOverlay \
+    NexodusThemeSystemUIOverlay \
+    PacleggersThemeAndroidOverlay \
+    PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay
+
+# Derp UI Styles
+PRODUCT_PACKAGES += \
+    BlackThemeAndroidOverlay \
+    BlackThemeSettingsOverlay \
+    BlackThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    UnmonetThemeSystemUIOverlay \
+    ProjectOptronicThemeAndroidOverlay \
+    ProjectOptronicThemeSettingsOverlay \
+    ProjectOptronicThemeSystemUIOverlay
 
 # QS UI Style
 PRODUCT_PACKAGES += \
