@@ -144,6 +144,14 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
+# Data icons
+PRODUCT_PACKAGES += \
+    AuroraDataOverlay \
+    FaintUIDataOverlay \
+    GradiconDataOverlay \
+    LornDataOverlay \
+    PlumpyDataOverlay
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AcherusSignalOverlay \
