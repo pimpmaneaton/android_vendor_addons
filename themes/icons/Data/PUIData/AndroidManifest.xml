@@ -16,7 +16,7 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.theme.icon_pack.pui.systemui"
+    package="com.android.theme.data.pack.pavlova"
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="com.android.systemui" android:category="android.customization.sb_data" android:priority="1"/>
