@@ -150,7 +150,8 @@ PRODUCT_PACKAGES += \
     FaintUIDataOverlay \
     GradiconDataOverlay \
     LornDataOverlay \
-    PlumpyDataOverlay
+    PlumpyDataOverlay \
+    PUIDataOverlay
 
 # Signal Icons
 PRODUCT_PACKAGES += \

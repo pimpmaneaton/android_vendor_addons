@@ -14,8 +14,9 @@
   ~ limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.custom.overlay.systemui.data8" android:versionCode="1"
+    package="com.custom.overlay.systemui.data8"
+    android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="com.android.systemui" android:category="android.customization.sb_data" android:priority="1"/>
-    <application android:label="Gradicon" android:hasCode="false"/>
+    <application android:label="Gradicon Data" android:hasCode="false" android:allowBackup="false"/>
 </manifest>
