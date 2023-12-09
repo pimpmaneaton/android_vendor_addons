@@ -376,7 +376,8 @@ PRODUCT_PACKAGES += \
     VolumeNeumorph \
     VolumeNeumorphOutline \
     VolumeOutline \
-    VolumeShadedLayer
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
 
 # Brightness bar styles
 PRODUCT_PACKAGES += \
